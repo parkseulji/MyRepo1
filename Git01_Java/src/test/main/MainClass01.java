@@ -6,5 +6,6 @@ public class MainClass01 {
 		System.out.println("monkey");
 		System.out.println("lab1브랜치에서 작업함");
 		System.out.println("lab1브랜치에서 작업함2");
+		System.out.println("master 브렌치 Hello!");
 	}
 }
